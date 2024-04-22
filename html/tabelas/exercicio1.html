@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./global.css">
+  <title>Atividade Tabelas</title>
+  <style>
+    table {
+      border-collapse: collapse;
+      width: 800px;
+      height: 200px;
+      margin: 60px auto;
+    }
+    tr, th, td {
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+  <head>
+    <h1>Atividade Prática - Tabelas HTML</h1>
+    <nav>
+      <a href="./exercicio1.html">EXERCÍCIO 1</a>
+      <a href="./exercicio2.html">EXERCÍCIO 2</a>
+      <a href="./exercicio3.html">EXERCÍCIO 3</a>
+    </nav>
+  </head>
+
+  <main>
+    <section>
+      <table border="1">
+        <thead>
+          <tr style="text-align: left;">
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+          </tr>
+        </thead>
+  
+        <tbody>
+          <tr style="text-align: center;">
+            <td>4</td>
+            <td>5</td>
+            <td>6</td>
+          </tr>
+  
+          <tr style="text-align: right;">
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+    </section>
+
+    <section>
+      <table border="1">
+        <thead>
+          <tr style="text-align: left;">
+            <th>1</th>
+            <th>2</th>
+            <th>3</th>
+          </tr>
+        </thead>
+  
+        <tbody>
+          <tr style="text-align: center;">
+            <td colspan="3">4</td>
+          </tr>
+  
+          <tr style="text-align: left;">
+            <td>7</td>
+            <td>8</td>
+            <td>9</td>
+          </tr>
+        </tbody>
+      </table>
+      <hr>
+    </section>
+
+    <section>
+      <table border="1">
+        <tr style="text-align: left;">
+          <th>1</th>
+          <th>2</th>
+          <td rowspan="3" style="text-align: center;">3</td>
+        </tr>
+        
+        <tr style="text-align: center;" >
+          <td colspan="2">4</td>
+        </tr>
+
+        <tr>
+          <td>5</td>
+          <td>6</td>
+        </tr>
+      </table>
+      <hr>
+    </section>
+  </main>
+</body>
+</html>
