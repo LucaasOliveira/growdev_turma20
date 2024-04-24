@@ -37,3 +37,7 @@ Desenvolver as três tabelas abaixo em um único arquivo HTML, conforme a imagem
 - Defina o tamanho das tabelas de forma apropriada para a visualização no navegador.
 - Utilize estilos diferentes para as bordas e as células, se desejar.
 
+## Resultado
+Aqui está um vídeo que demonstra o resultado final do exercício:
+
+![Gravação-de-Tela-2024-04-24-às-14 21 46](https://github.com/LucaasOliveira/growdev_turma20/assets/110198679/c37cb298-b973-440c-96a8-b57cf6cd9351)
