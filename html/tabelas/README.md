@@ -7,7 +7,7 @@ Neste repositório, você encontrará três páginas HTML contendo diferentes ta
 **Descrição:**
 Criar uma página HTML contendo uma tabela conforme a imagem abaixo:
 
-(adicionar uma imagem aqui)
+<img width="453" alt="Captura de Tela 2024-04-24 às 15 11 53" src="https://github.com/LucaasOliveira/growdev_turma20/assets/110198679/5ad436f2-487e-40ce-9c24-a90186c12ebb">
 
 **Instruções:**
 - O tamanho das tabelas deve ser definido de acordo com a estrutura mostrada na imagem.
@@ -19,7 +19,7 @@ Criar uma página HTML contendo uma tabela conforme a imagem abaixo:
 **Descrição:**
 Criar uma página HTML contendo uma tabela que represente o layout de um site, conforme a imagem abaixo:
 
-(adicionar uma imagem aqui)
+<img width="351" alt="Captura de Tela 2024-04-24 às 15 12 01" src="https://github.com/LucaasOliveira/growdev_turma20/assets/110198679/9184bc67-e97a-447d-8a2d-10a1cd736f79">
 
 **Instruções:**
 - Estruture a tabela de acordo com o layout apresentado na imagem.
@@ -30,7 +30,7 @@ Criar uma página HTML contendo uma tabela que represente o layout de um site, c
 **Descrição:**
 Desenvolver as três tabelas abaixo em um único arquivo HTML, conforme a imagem fornecida:
 
-(adicionar uma imagem aqui)
+<img width="631" alt="Captura de Tela 2024-04-24 às 15 12 08" src="https://github.com/LucaasOliveira/growdev_turma20/assets/110198679/c781137e-6dbc-418e-a2dc-b431cca8e438">
 
 **Instruções:**
 - Combine as três tabelas em um único arquivo HTML.
