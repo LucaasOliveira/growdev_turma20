@@ -19,7 +19,7 @@ A baixo vou deixar alguns exercícios, mas podem ficar avontade para visitar tod
 
 1. Clone este repositório em sua máquina local usando o comando:
 
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/LucaasOliveira/growdev_turma20/tree/main
 
 2. Navegue até a pasta do exercício ou projeto que deseja acessar.
 
@@ -33,5 +33,5 @@ git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 Caso tenha alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato comigo:
 
-- E-mail: seuemail@example.com
-- LinkedIn: [Seu Perfil no LinkedIn](https://www.linkedin.com/in/olucasalmeidaa/)
+- E-mail: [oalmeidaluccas@gmail.com](oalmeidaluccas@gmail.com)
+- LinkedIn: [Meu Perfil Linkedin](https://www.linkedin.com/in/olucasalmeidaa/)
