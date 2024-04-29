@@ -6,11 +6,14 @@ Este repositório contém uma coleção de exercícios e projetos realizados dur
 
 A baixo vou deixar alguns exercícios, mas podem ficar avontade para visitar todas as pastas:
 
-- **Exercício com tabelas:** 
+- **Exercício com tabelas:** Descrição e resultado no link
   - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/html/tabelas)
 
-- **Exercício HTML/CSS Cavaleiros do Zodíaco:** Descrição breve do exercício 2.
+- **Exercício HTML/CSS Cavaleiros do Zodíaco:** Descrição e resultado no link
   - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/css/atividade-css)
+ 
+- **Exercício HTML/CSS Float e Position** Descrição e resultado no link
+  - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/css/position)
 
 - **Projeto de fim de módulo FrontEnd I:** 
   - [Link para o código](https://github.com/LucaasOliveira/final_de_modulo_frontend1)
