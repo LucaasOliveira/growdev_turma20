@@ -15,7 +15,12 @@ A baixo vou deixar alguns exercícios, mas podem ficar avontade para visitar tod
 - **Exercício HTML/CSS Float e Position** Descrição e resultado no link
   - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/css/position)
 
-- **Projeto de fim de módulo FrontEnd I:** 
+- **Projeto de fim de módulo FrontEnd I:**
+
+  ### Com Position
+  - [Link para o código](https://github.com/LucaasOliveira/final_de_modulo_frontend1_com_position/tree/main)
+
+  ### Com flexbox
   - [Link para o código](https://github.com/LucaasOliveira/final_de_modulo_frontend1)
 
 ## Como Utilizar
