@@ -4,7 +4,7 @@ Este repositório contém uma coleção de exercícios e projetos realizados dur
 
 ## Estrutura do Repositório
 
-A baixo vou deixar alguns exercícios, mas podem ficar avontade para visitar todas as pastas:
+A baixo vou deixar alguns exercícios, mas podem ficar à vontade para visitar todas as pastas:
 
 - **Exercício com tabelas:** Descrição e resultado no link
   - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/html/tabelas)
