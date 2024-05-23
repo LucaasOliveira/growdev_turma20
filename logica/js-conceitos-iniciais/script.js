@@ -1,4 +1,4 @@
-// exercicio em aula 1
+// exercicio 1
 
 let nota1 = 7;
 let nota2 = 8;
@@ -16,7 +16,7 @@ if (resultadoMediaPonderada >= 7) {
   console.log(`Sua média ponderada foi: ${resultadoMediaPonderada}, você está reprovado, se esforce um pouco mais.`);
 }
 
-//exercicio em aula 2
+//exercicio 2
 
 let anos = 29;
 let meses = 3;
