@@ -23,7 +23,7 @@ A baixo vou deixar alguns exercícios, mas podem ficar à vontade para visitar t
   ### Com flexbox
   - [Link para o código](https://github.com/LucaasOliveira/final_de_modulo_frontend1)
 
-**Lógica - Média ponderada e transformar idade de anos em dias:** Descrição e resultados nos links
+- **Lógica - Média ponderada e transformar idade de anos em dias:** Descrição e resultados nos links
   - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/logica/js-conceitos-iniciais)
 
 
