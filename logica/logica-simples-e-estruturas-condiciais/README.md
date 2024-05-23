@@ -73,3 +73,7 @@ b. “Número é ímpar!”, se o valor armazenado for ímpar.
 ## Verificação de Idade para Voto
 
 Escreva um algoritmo que armazene o ano atual e o ano de nascimento de uma pessoa. Escrever uma mensagem no console que diga se ela poderá ou não votar este ano (não é necessário considerar o mês em que a pessoa nasceu).
+
+**Resultado**
+
+![Gravação-de-Tela-2024-05-23-às-18 28 57](https://github.com/LucaasOliveira/growdev_turma20/assets/110198679/d087f2e2-7e65-4405-8b7d-029a30cd38af)
