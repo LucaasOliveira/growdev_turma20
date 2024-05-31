@@ -26,8 +26,14 @@ A baixo vou deixar alguns exercícios, mas podem ficar à vontade para visitar t
 - **Lógica - Média ponderada e transformar idade de anos em dias:** Descrição e resultados nos links
   - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/logica/js-conceitos-iniciais)
 
-  - **Lógica simples e estruturas condicionais:** Descrição e resultados nos links
+  - **Lógica - Estruturas condicionais:** Descrição e resultados nos links
   - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/logica/logica-simples-e-estruturas-condiciais)
+ 
+- **Lógica - Estruturas de Repetição (LOOP):** Descrição e resultados nos links
+  - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/logica/estruturas-de-repeticao)
+ 
+- **Desafio dos Caixas Eletrônicos das Ilhas Growdev:** Descrição e resultados nos links
+  - [Link para o código](https://github.com/LucaasOliveira/growdev_turma20/tree/main/logica/desafio-ilhas-growdev)
 
 
 ## Como Utilizar
